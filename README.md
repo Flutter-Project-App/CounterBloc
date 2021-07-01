@@ -1,4 +1,5 @@
-# flutter_application
+# Counter App
+Practice Cubit, State
 
 ## Structure
 - assets
